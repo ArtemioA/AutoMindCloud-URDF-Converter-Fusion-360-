@@ -3,7 +3,7 @@
 #                 (SISTEMA CÓDIGO 1 + GENERALIZADO + DEBUG)
 # =========================================================
 
-import adsk.core
+import adsk.core 
 import adsk.fusion
 import os
 import math
